@@ -1,82 +1,12 @@
 [
-  {
-    "first_name": "สมชาย",
-    "last_name": "ใจดี",
-    "email": "somchai@example.com",
-    "password": "pass123",
-    "phone_number": "0812345678",
-    "address": "123 หมู่ 1 บางรัก กทม."
-  },
-  {
-    "first_name": "สมหญิง",
-    "last_name": "ใจงาม",
-    "email": "somying@example.com",
-    "password": "pass234",
-    "phone_number": "0823456789",
-    "address": "456 หมู่ 2 ลาดพร้าว กทม."
-  },
-  {
-    "first_name": "อดิศักดิ์",
-    "last_name": "ทองดี",
-    "email": "adisak@example.com",
-    "password": "pass345",
-    "phone_number": "0834567890",
-    "address": "789 หมู่ 3 ดอนเมือง กทม."
-  },
-  {
-    "first_name": "ศิริพร",
-    "last_name": "นาคะ",
-    "email": "siriporn@example.com",
-    "password": "pass456",
-    "phone_number": "0845678901",
-    "address": "99/1 ถนนสุขุมวิท กทม."
-  },
-  {
-    "first_name": "จักรพงษ์",
-    "last_name": "แสงทอง",
-    "email": "jakrapong@example.com",
-    "password": "pass567",
-    "phone_number": "0856789012",
-    "address": "88/8 ถนนวิภาวดี กทม."
-  },
-  {
-    "first_name": "พรทิพย์",
-    "last_name": "ใจบุญ",
-    "email": "porntip@example.com",
-    "password": "pass678",
-    "phone_number": "0867890123",
-    "address": "77/7 ถนนราชดำริ กทม."
-  },
-  {
-    "first_name": "อนุชา",
-    "last_name": "ดีใจ",
-    "email": "anucha@example.com",
-    "password": "pass789",
-    "phone_number": "0878901234",
-    "address": "66/6 ถนนพระราม 9 กทม."
-  },
-  {
-    "first_name": "ธนพร",
-    "last_name": "รักดี",
-    "email": "thanaporn@example.com",
-    "password": "pass890",
-    "phone_number": "0889012345",
-    "address": "55/5 ถนนจันทน์ กทม."
-  },
-  {
-    "first_name": "เกรียงไกร",
-    "last_name": "บุญมาก",
-    "email": "kriangkrai@example.com",
-    "password": "pass901",
-    "phone_number": "0890123456",
-    "address": "44/4 ถนนรามคำแหง กทม."
-  },
-  {
-    "first_name": "วรรณา",
-    "last_name": "สวยดี",
-    "email": "wanna@example.com",
-    "password": "pass012",
-    "phone_number": "0801234567",
-    "address": "33/3 ถนนพหลโยธิน กทม."
-  }
+  { "email": "somchai@example.com", "password": "pass123" },
+  { "email": "somying@example.com", "password": "pass234" },
+  { "email": "adisak@example.com", "password": "pass345" },
+  { "email": "siriporn@example.com", "password": "pass456" },
+  { "email": "jakrapong@example.com", "password": "pass567" },
+  { "email": "porntip@example.com", "password": "pass678" },
+  { "email": "anucha@example.com", "password": "pass789" },
+  { "email": "thanaporn@example.com", "password": "pass890" },
+  { "email": "kriangkrai@example.com", "password": "pass901" },
+  { "email": "wanna@example.com", "password": "pass012" }
 ]
